@@ -1,0 +1,2 @@
+C:\Users\Ziegler\source\repos\TestApp\Debug\TestApp.exe
+C:\Users\Ziegler\source\repos\TestApp\Debug\TestApp.pdb
